@@ -1,3 +1,4 @@
+
 \# EduHub – Quản lý đội tuyển và giải đấu
 
 
@@ -113,4 +114,7 @@ dotnet run
 5\. Kiểm tra báo cáo thành viên, đăng ký và check-in.
 
 6\. Kiểm tra lịch sử thành viên sau khi rời đội.
+
+
+
 
